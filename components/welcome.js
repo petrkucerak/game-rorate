@@ -26,37 +26,37 @@ export default function Welcome() {
         <ol className="list-decimal pl-6">
           <li>
             <Link href="/points/drevo-a-tramy">
-              <a>Dřevo a trámy</a>
+              <a>dřevo a trámy</a>
             </Link>
           </li>
           <li>
             <Link href="/points/igelity-a-jine-izolace">
-              <a>Igelity a jiné izolace</a>
+              <a>igelity a jiné izolace</a>
             </Link>
           </li>
           <li>
             <Link href="/points/zdravotnicke-potreby">
-              <a>Zdravotnické potřeby</a>
+              <a>zdravotnické potřeby</a>
             </Link>
           </li>
           <li>
             <Link href="/points/elektrotechnika-a-naradi">
-              <a>Elektrotechnika a nářadí</a>
+              <a>elektrotechnika a nářadí</a>
             </Link>
           </li>
           <li>
             <Link href="/points/jidlo-a-potraviny">
-              <a>Jídlo a potraviny</a>
+              <a>jídlo a potraviny</a>
             </Link>
           </li>
           <li>
             <Link href="/points/luzkoviny-a-obleceni">
-              <a>Lůžkoviny a oblečení</a>
+              <a>lůžkoviny a oblečení</a>
             </Link>
           </li>
           <li>
             <Link href="/points/umelecke-poteby-a-knihy">
-              <a>Umělecké potřeby a knihy</a>
+              <a>umělecké potřeby a knihy</a>
             </Link>
           </li>
         </ol>
