@@ -10,7 +10,7 @@ export default function ElektrotechnikaANaradi() {
         name={"Elektrotechnika a nářadí"}
         describtion="S dobrým generátorem, slušnou audiotechnikou a nějakými světly, třeba přečkáte celou toxickou katastrofu jako velkou party. No, není to lákavé?"
         coords="50.0827442N, 14.4170369E"
-        question="Jaký je součet tří cifer objevujících se na autech?"
+        question="Jsme tři a jsme na autech. Kolik vyjde, když nás sečteš?"
         answare="14"
         odpoved="#bengaaa"
       />
