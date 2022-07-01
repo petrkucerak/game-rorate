@@ -6,7 +6,7 @@ export default function Head() {
       <Link href="/">
         <a>
           <h1 className="text-xl uppercase font-bold my-4 text-sunflower">
-            Otrávené deště
+            Toxická sprška
           </h1>
         </a>
       </Link>
