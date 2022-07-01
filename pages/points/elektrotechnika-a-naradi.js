@@ -1,11 +1,11 @@
-import Head from "../../components/head";
+import Headerak from "../../components/headerak";
 import Footer from "../../components/footer";
 import Point from "../../components/point";
 
 export default function ElektrotechnikaANaradi() {
   return (
     <main className="w-full font-athiti bg-black min-h-screen text-white text-xl">
-      <Head />
+      <Headerak />
       <Point
         name={"Elektrotechnika a nářadí"}
         describtion="S dobrým generátorem, slušnou audiotechnikou a nějakými světly, třeba přečkáte celou toxickou katastrofu jako velkou party. No, není to lákavé?"
