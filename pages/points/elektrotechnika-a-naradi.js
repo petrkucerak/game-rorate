@@ -8,7 +8,7 @@ export default function ElektrotechnikaANaradi() {
       <Head />
       <Point
         name={"Elektrotechnika a nářadí"}
-        describtion="S dobrým generátorem, slušnou audiotechnikou a nějakými světly byste mohli celé deštivé období přečkat jako velkou party. Nebo raději použijete něco jiného? "
+        describtion="S dobrým generátorem, slušnou audiotechnikou a nějakými světly, třeba přečkáte celou toxickou katastrofu jako velkou party. No, není to lákavé?"
         coords="50.0827442N, 14.4170369E"
         question="Jaký je součet čísel, která se objevují na autech, když se rozhlédneš kolem sebe?"
         answare="14"
