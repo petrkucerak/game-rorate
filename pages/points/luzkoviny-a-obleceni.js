@@ -10,9 +10,9 @@ export default function LuzkovinyAObleceni() {
       <Point
         name={"Lůžkoviny a oblečení"}
         describtion="Neprochladnout v noci? Vyrobit si ochranné obleky před toxickým deštěm? Možná pokud získáte tuto surovinu, tak se vám to povede."
-        coords="50.0812672N, 14.4112597E"
-        question="V dálce když se zahledíš, zlatou zahrádku na hlavě mám. Co jsem?"
-        answare="divadlo"
+        coords="49.6797489N, 16.3386181E"
+        question="Mocní mongolští bojovníci smáčeli své tváře v bojové barvy a po výhrách se zde radovali. Jak se jmenuje město odkud pochází?"
+        answare="ulambatar"
         odpoved="#národnííí12387"
       />
       <Footer />

@@ -9,9 +9,9 @@ export default function IgelityAJineIzolace() {
       <Point
         name={"Igelity a jiné izolace"}
         describtion="Dnes je svět přeplněn různými plasty a odpady. Kolik z nich by šlo ovšem použít jako těsnění na váš improvizovaný příbytek? No, právě, že moc ne. Proto si musíte jít nějaký opatřit samy."
-        coords="50.0767947N, 14.4091872E"
-        question="Tyčím se nad řekou, vodu jímám. Koliko podlaží mne obývá."
-        answare="7"
+        coords="49.6768131N, 16.3356686E"
+        question="Poutníka občerstvím tebe možná taky. Jakou barvu mám?"
+        answare="zlatou"
         odpoved="#DFDS5as"
       />
       <Footer />

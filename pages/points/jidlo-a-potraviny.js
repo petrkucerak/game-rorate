@@ -9,9 +9,9 @@ export default function JidloAPotraviny() {
       <Point
         name={"Jídlo a potraviny"}
         describtion="Bez jídla a stravy nikdo nevydrží dlouho. I když máte-li zájem, můžete to klidně zkusit. Pokud se ale chcete pořádně připravit, musíte odpovědět na následující otázku."
-        coords="50.0758742N, 14.4168725E"
-        question="Mé jméno je Gorazd. Co jsem?"
-        answare="biskup"
+        coords="49.6794908N, 16.3375700E"
+        question="Od nepaměti zde stojím, epické bitvy jsem zažil. A Ulambátar je nelepší! Co jsem?"
+        answare="nisaplast"
         odpoved="#adAFS5A*"
       />
       <Footer />
